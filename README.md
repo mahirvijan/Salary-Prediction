@@ -28,3 +28,5 @@ Further changes that i want to create in my applications are;
 1)I can use more models and different regression techniques to get more accuracy.
 2)creating a better front end
 3)saving the details from html form and storing it in mongo db
+
+![Screenshot (572)](https://user-images.githubusercontent.com/62174146/134044166-861da239-0b4c-4f7a-a412-e9110e138f26.png)
