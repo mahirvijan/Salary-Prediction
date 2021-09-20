@@ -15,8 +15,10 @@ HOSTING
 
 used flask ,html,css to build the web application , now i am deploying it using heruko
 
+![Screenshot (574)](https://user-images.githubusercontent.com/62174146/134047202-0f94f102-0d0f-48fd-ad3b-85e817f7ee14.png)
+
 WORKFLOW
-1)Data Collection->found a salary prediction data on kaggle
+1)Data Collection->found a salary prediction data on kaggle 
 2)EDA->Did some data analysis using the matplotlib library and i found the correlation betweem the different columns.
 3)Building Models->Tried to find the best model using the eda used before and build a simple linear reggression model.
 4)After building the model,deployed the project using flask and communicated with the html and css based front end using the jinja template.
@@ -29,8 +31,12 @@ Further changes that i want to create in my applications are;
 2)creating a better front end
 3)saving the details from html form and storing it in mongo db
 
-![Screenshot (572)](https://user-images.githubusercontent.com/62174146/134044166-861da239-0b4c-4f7a-a412-e9110e138f26.png)
+##INPUT && OUTPUT 
+![Screenshot (572)](https://user-images.githubusercontent.com/62174146/134047566-6e0a502c-9328-4005-80fd-b9636aceb539.png)
 
-model priction 
-![image](https://user-images.githubusercontent.com/62174146/134044444-ea978a2d-56a8-4ea5-bdd2-f92c5d23c444.png)
+![Screenshot (575)](https://user-images.githubusercontent.com/62174146/134047408-ced6a637-c9ff-4f14-bbbf-3e34f2d0b377.png)
+
+
+
+
 
