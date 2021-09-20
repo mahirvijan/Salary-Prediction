@@ -1,5 +1,8 @@
 # Salary-Prediction
 
+##LINK-https://salarypredicti.herokuapp.com/
+
+
 Meta Data
 Dataset(50*40)-
 four colums with experiance ,test score,interview score and the salary.
