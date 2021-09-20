@@ -15,7 +15,7 @@ HOSTING
 
 used flask ,html,css to build the web application , now i am deploying it using heruko
 
-METHODOLOGY
+WORKFLOW
 1)Data Collection->found a salary prediction data on kaggle
 2)EDA->Did some data analysis using the matplotlib library and i found the correlation betweem the different columns.
 3)Building Models->Tried to find the best model using the eda used before and build a simple linear reggression model.
