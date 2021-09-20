@@ -30,3 +30,7 @@ Further changes that i want to create in my applications are;
 3)saving the details from html form and storing it in mongo db
 
 ![Screenshot (572)](https://user-images.githubusercontent.com/62174146/134044166-861da239-0b4c-4f7a-a412-e9110e138f26.png)
+
+model priction 
+![image](https://user-images.githubusercontent.com/62174146/134044444-ea978a2d-56a8-4ea5-bdd2-f92c5d23c444.png)
+
